@@ -2,10 +2,9 @@
 
 ## 📖 I'm a Systems Engineer Student 
 
-- 📝I am currently in the middle of my career at the Universidad del Valle, Cali-COL
-- 📄I’m currently a quite interested in web development, both frontend and backend, but I would like to learn data science
+- 📝I am currently at the end of my career at the Universidad del Valle, Cali-COL
+- 📄I’m currently a software developer, as a frontend and backend developer
 - 🤝I’m looking learn more about backend development
-- 💻I'm currntly working on web development
 - 🎯Goals: gain more experience in this wonderful world of programming
 
 ## Connect with me:
