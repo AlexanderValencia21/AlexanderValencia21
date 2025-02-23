@@ -4,8 +4,8 @@
 
 - 📝I am currently at the end of my career at the Universidad del Valle, Cali-COL
 - 📄I’m currently a software developer, as a frontend and backend developer
-- 🤝I’m looking learn more about backend development
-- 🎯Goals: gain more experience in this wonderful world of programming
+- 🤝I’m looking learn more about data science
+- 🎯Goals: Leran more about AI and Machine Learning 
 
 ## Connect with me:
 <p align="left">
