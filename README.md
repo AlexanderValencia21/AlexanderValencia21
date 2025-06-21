@@ -20,5 +20,6 @@
 <br>
 <a target="_blank" href="mailto:alexandervalencia0121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/AlexanderValencia21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
+<a target="_blank" href="datascienceportfol.io/alexandervalencia012"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black"></img></a>
 
 <br>
